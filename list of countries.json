@@ -1,0 +1,1259 @@
+{
+"Countries": {
+   "AZERBAIJAN": {
+      "RU": "АЗЕРБАЙДЖАН",
+      "UZ(latin)": "OZARBAYJON",
+      "UZ(cyrillic)s": "ОЗАРБАЙЖОН"
+   },
+   "AUSTRIA": {
+      "RU": "АВСТРИЯ",
+      "UZ(latin)": "AVSTRIYA",
+      "UZ(cyrillic)s": "АВСТРИЯ"
+   },
+   "ALAND ISLANDS": {
+      "RU": "АЛАНДСКИЕ ОСТРОВА",
+      "UZ(latin)": "ALAND OROLLARI",
+      "UZ(cyrillic)s": "АЛАНД ОРОЛЛАРИ"
+   },
+   "ALBANIA": {
+      "RU": "АЛБАНИЯ",
+      "UZ(latin)": "ALBANIYA",
+      "UZ(cyrillic)s": "АЛБАНИЯ"
+   },
+   "ALGERIA": {
+      "RU": "АЛЖИР",
+      "UZ(latin)": "JAZIR",
+      "UZ(cyrillic)s": "ЖАЗОИР"
+   },
+   "AMERICAN SAMOA": {
+      "RU": "АМЕРИКАНСКОЕ САМОА",
+      "UZ(latin)": "AMERIKA SAMOASI",
+      "UZ(cyrillic)s": "АМЕРИКА САМОАСИ"
+   },
+   "ANGUILLA": {
+      "RU": "АНГИЛЬЯ",
+      "UZ(latin)": "ANGUILLA",
+      "UZ(cyrillic)s": "АНГУИЛЛА"
+   },
+   "ANGOLA": {
+      "RU": "АНГОЛА",
+      "UZ(latin)": "ANGOLA",
+      "UZ(cyrillic)s": "АНГОЛА"
+   },
+   "ANDORRA": {
+      "RU": "АНДОРРА",
+      "UZ(latin)": "ANDORRA",
+      "UZ(cyrillic)s": "АНДОРРА"
+   },
+   "AUSTRALIA": {
+      "RU": "АВСТРАЛИЯ",
+      "UZ(latin)": "AVSTRALIYA",
+      "UZ(cyrillic)s": "АВСТРАЛИЯ"
+   },
+   "ANTARCTICA": {
+      "RU": "АНТАРКТИДА",
+      "UZ(latin)": "ANTARKTIKA",
+      "UZ(cyrillic)s": "АНТАРКТИКА"
+   },
+   "ANTIGUA AND BARBUDA": {
+      "RU": "АНТИГУА И БАРБУДА",
+      "UZ(latin)": "ANTIGUA VA BARBUDA",
+      "UZ(cyrillic)s": "АНТИГУА ВА БАРБУДА"
+   },
+   "ARGENTINA": {
+      "RU": "АРГЕНТИНА",
+      "UZ(latin)": "ARGENTINA",
+      "UZ(cyrillic)s": "АРГЕНТИНА"
+   },
+   "ARMENIA": {
+      "RU": "АРМЕНИЯ",
+      "UZ(latin)": "ARMANISTON",
+      "UZ(cyrillic)s": "АРМАНИСТОН"
+   },
+   "ARUBA": {
+      "RU": "АРУБА",
+      "UZ(latin)": "ARUBA",
+      "UZ(cyrillic)s": "АРУБА"
+   },
+   "AFGHANISTAN": {
+      "RU": "АФГАНИСТАН",
+      "UZ(latin)": "AFGONISTON",
+      "UZ(cyrillic)s": "АФҒОНИСТОН"
+   },
+   "BAHAMAS": {
+      "RU": "БАГАМСКИЕ ОСТРОВА",
+      "UZ(latin)": "BAHAMA",
+      "UZ(cyrillic)s": "БАҲАМА ОРОЛЛАРИ"
+   },
+   "BANGLADESH": {
+      "RU": "БАНГЛАДЕШ",
+      "UZ(latin)": "BANGLADESH",
+      "UZ(cyrillic)s": "БАНГЛАДЕШ"
+   },
+   "BARBADOS": {
+      "RU": "БАРБАДОС",
+      "UZ(latin)": "BARBADOS",
+      "UZ(cyrillic)s": "БАРБАДОС"
+   },
+   "BAHRAIN": {
+      "RU": "БАХРЕЙН",
+      "UZ(latin)": "BAHRAYN",
+      "UZ(cyrillic)s": "БАҲРАЙН"
+   },
+   "BELARUS": {
+      "RU": "БЕЛАРУСЬ",
+      "UZ(latin)": "BELARUS",
+      "UZ(cyrillic)s": "БЕЛАРУС"
+   },
+   "BELIZE": {
+      "RU": "БЕЛИЗ",
+      "UZ(latin)": "BELIZE",
+      "UZ(cyrillic)s": "БЕЛИЗ"
+   },
+   "BELGIUM": {
+      "RU": "БЕЛЬГИЯ",
+      "UZ(latin)": "BELGIYA",
+      "UZ(cyrillic)s": "БЕЛГИЯ"
+   },
+   "BENIN": {
+      "RU": "БЕНИН",
+      "UZ(latin)": "BENIN",
+      "UZ(cyrillic)s": "БЕНИН"
+   },
+   "BERMUDA": {
+      "RU": "БЕРМУДСКИЕ ОСТРОВА",
+      "UZ(latin)": "BERMUDA",
+      "UZ(cyrillic)s": "БЕРМУДА"
+   },
+   "BULGARIA": {
+      "RU": "БОЛГАРИЯ",
+      "UZ(latin)": "BOLGARIYA",
+      "UZ(cyrillic)s": "БОЛГАРИЯ"
+   },
+   "BOLIVIA": {
+      "RU": "БОЛИВИЯ",
+      "UZ(latin)": "BOLIVIYA",
+      "UZ(cyrillic)s": "БОЛИВИЯ"
+   },
+   "BONAIRE, SINT ESATIUS AND SABA": {
+      "RU": "БОНЭЙР, СИНТ-ЭСАТИУС И САБА",
+      "UZ(latin)": "BONAIRE, SINT ESATIUS VA SABA",
+      "UZ(cyrillic)s": "БОНАИР, СИНТ ЭСАТИУС ВА САБА"
+   },
+   "BOSNIA AND HERZEGOVINA": {
+      "RU": "БОСНИЯ И ГЕРЦЕГОВИНА",
+      "UZ(latin)": "BOSNIYA VA GERSEGOVINA",
+      "UZ(cyrillic)s": "БОСНИЯ ВА ГЕРТСЕГОВИНА"
+   },
+   "BOTSWANA": {
+      "RU": "БОТСВАНА",
+      "UZ(latin)": "BOTSVANA",
+      "UZ(cyrillic)s": "БОТСВАНА"
+   },
+   "BRAZIL": {
+      "RU": "БРАЗИЛИЯ",
+      "UZ(latin)": "BRAZILIYA",
+      "UZ(cyrillic)s": "БРАЗИЛИЯ"
+   },
+   "BRITISH TERRITORIES": {
+      "RU": "БРИТАНСКИЕ ТЕРРИТОРИИ",
+      "UZ(latin)": "BRITANIYA HUDUDLARI",
+      "UZ(cyrillic)s": "БРИТАНИЯ ҲУДУДЛАРИ"
+   },
+   "BRUNEI DARUSSALAM": {
+      "RU": "БРУНЕЙ-ДАРУССАЛАМ",
+      "UZ(latin)": "BRUNEY DORUSSALOM",
+      "UZ(cyrillic)s": "БРУНЕЙ ДОРУССАЛОМ"
+   },
+   "BUVE": {
+      "RU": "БУВЕ",
+      "UZ(latin)": "BUVE",
+      "UZ(cyrillic)s": "БУВЕ"
+   },
+   "BURKINA FASO": {
+      "RU": "БУРКИНА-ФАСО",
+      "UZ(latin)": "BURKINA FASO",
+      "UZ(cyrillic)s": "БУРКИНА ФАСО"
+   },
+   "BURUNDI": {
+      "RU": "БУРУНДИ",
+      "UZ(latin)": "BURUNDI",
+      "UZ(cyrillic)s": "БУРУНДИ"
+   },
+   "BUTANE": {
+      "RU": "БУТАН",
+      "UZ(latin)": "BUTAN",
+      "UZ(cyrillic)s": "БУТАН"
+   },
+   "VANUATU": {
+      "RU": "ВАНУАТУ",
+      "UZ(latin)": "VANUATU",
+      "UZ(cyrillic)s": "ВАНУАТУ"
+   },
+   "VATICAN": {
+      "RU": "ВАТИКАН",
+      "UZ(latin)": "VATIKAN",
+      "UZ(cyrillic)s": "ВАТИКАН"
+   },
+   "HUNGARY": {
+      "RU": "ВЕНГРИЯ",
+      "UZ(latin)": "VENGRIYA",
+      "UZ(cyrillic)s": "ВЕНГРИЯ"
+   },
+   "VENEZUELA": {
+      "RU": "ВЕНЕСУЭЛА",
+      "UZ(latin)": "VENESUELA",
+      "UZ(cyrillic)s": "ВЕНЕСУЕЛА"
+   },
+   "VIRGIN. ISLANDS (USA)": {
+      "RU": "ВИРГИН. ОСТРОВА (США)",
+      "UZ(latin)": "BOKIRA. OROLLAR (AQSH)",
+      "UZ(cyrillic)s": "ВИРГИН ОРОЛЛАРИ (АҚШ)"
+   },
+   "VIRGIN. ISLANDS (UK)": {
+      "RU": "ВИРГИН. ОСТРОВА (БРИТ.)",
+      "UZ(latin)": "BOKIRA. OROLLAR (BUYUK BRITANIYA)",
+      "UZ(cyrillic)s": "ВИРГИН ОРОЛЛАРИ (БУЮК БРИТАНИЯ)"
+   },
+   "VIETNAM": {
+      "RU": "ВЬЕТНАМ",
+      "UZ(latin)": "VYETNAM",
+      "UZ(cyrillic)s": "ВЕТНАМ"
+   },
+   "GABON": {
+      "RU": "ГАБОН",
+      "UZ(latin)": "GABON",
+      "UZ(cyrillic)s": "ГАБОН"
+   },
+   "HAITI": {
+      "RU": "ГАИТИ",
+      "UZ(latin)": "GAITI",
+      "UZ(cyrillic)s": "ГАИТИ"
+   },
+   "GUYANA": {
+      "RU": "ГАЙАНА",
+      "UZ(latin)": "GUYANA",
+      "UZ(cyrillic)s": "ГУЯНА"
+   },
+   "GAMBIA": {
+      "RU": "ГАМБИЯ",
+      "UZ(latin)": "GAMBIA",
+      "UZ(cyrillic)s": "ГАМБИА"
+   },
+   "GHANA": {
+      "RU": "ГАНА",
+      "UZ(latin)": "GANA",
+      "UZ(cyrillic)s": "ГАНА"
+   },
+   "GUADELOUPE": {
+      "RU": "ГВАДЕЛУПА",
+      "UZ(latin)": "GVADELUPA",
+      "UZ(cyrillic)s": "ГВАДЕЛУПА"
+   },
+   "GUATEMALA": {
+      "RU": "ГВАТЕМАЛА",
+      "UZ(latin)": "GUATEMALA",
+      "UZ(cyrillic)s": "ГВАТЕМАЛА"
+   },
+   "GUINEA": {
+      "RU": "ГВИНЕЯ",
+      "UZ(latin)": "GVINEYA",
+      "UZ(cyrillic)s": "ГВИНЕЯ"
+   },
+   "GUINEA-BISSAU": {
+      "RU": "ГВИНЕЯ-БИСАУ",
+      "UZ(latin)": "GVINEYA-BISAU",
+      "UZ(cyrillic)s": "ГВИНЕЯ-БИСАУ"
+   },
+   "GERMANY": {
+      "RU": "ГЕРМАНИЯ",
+      "UZ(latin)": "GERMANIYA",
+      "UZ(cyrillic)s": "ГЕРМАНИЯ"
+   },
+   "GUERNSEY": {
+      "RU": "ГЕРНСИ",
+      "UZ(latin)": "GERNSEY",
+      "UZ(cyrillic)s": "ГЕРНСИ"
+   },
+   "GIBRALTAR": {
+      "RU": "ГИБРАЛТАР",
+      "UZ(latin)": "GIBRALTAR",
+      "UZ(cyrillic)s": "ГИБРАЛТАР"
+   },
+   "HONDURAS": {
+      "RU": "ГОНДУРАС",
+      "UZ(latin)": "GONDURAS",
+      "UZ(cyrillic)s": "ГОНДУРАС"
+   },
+   "HONG KONG": {
+      "RU": "ГОНКОНГ",
+      "UZ(latin)": "GONKONG",
+      "UZ(cyrillic)s": "ГОНКОНГ"
+   },
+   "GRENADA": {
+      "RU": "ГРЕНАДА",
+      "UZ(latin)": "GRENADA",
+      "UZ(cyrillic)s": "ГРЕНАДА"
+   },
+   "GREENLAND": {
+      "RU": "ГРЕНЛАНДИЯ",
+      "UZ(latin)": "GRENLANDIYA",
+      "UZ(cyrillic)s": "ГРЕНЛАНДИЯ"
+   },
+   "GREECE": {
+      "RU": "ГРЕЦИЯ",
+      "UZ(latin)": "GRESIYA",
+      "UZ(cyrillic)s": "ГРЕТСИЯ"
+   },
+   "GEORGIA": {
+      "RU": "ГРУЗИЯ",
+      "UZ(latin)": "GRUJIYA",
+      "UZ(cyrillic)s": "ГРУЗИЯ"
+   },
+   "GUAM": {
+      "RU": "ГУАМ",
+      "UZ(latin)": "GUAM",
+      "UZ(cyrillic)s": "ГУАМ"
+   },
+   "DENMARK": {
+      "RU": "ДАНИЯ",
+      "UZ(latin)": "DANIYA",
+      "UZ(cyrillic)s": "ДАНИЯ"
+   },
+   "JERSEY": {
+      "RU": "ДЖЕРСИ",
+      "UZ(latin)": "JERSI",
+      "UZ(cyrillic)s": "ЖЕРСИ"
+   },
+   "DJIBOUTI": {
+      "RU": "ДЖИБУТИ",
+      "UZ(latin)": "JIBUTI",
+      "UZ(cyrillic)s": "ЖИБУТИ"
+   },
+   "DOMINICA": {
+      "RU": "ДОМИНИКА",
+      "UZ(latin)": "DOMINIKA",
+      "UZ(cyrillic)s": "ДОМИНИКА"
+   },
+   "DOMINICAN REPUBLIC": {
+      "RU": "ДОМИНИКАНСКАЯ РЕСПУБЛИКА",
+      "UZ(latin)": "DOMINIKAN RESPUBLIKASI",
+      "UZ(cyrillic)s": "ДОМИНИКАН РЕСПУБЛИКАСИ"
+   },
+   "EGYPT": {
+      "RU": "ЕГИПЕТ",
+      "UZ(latin)": "MISR",
+      "UZ(cyrillic)s": "МИСР"
+   },
+   "ZAMBIA": {
+      "RU": "ЗАМБИЯ",
+      "UZ(latin)": "ZAMBIA",
+      "UZ(cyrillic)s": "ЗАМБИА"
+   },
+   "WEST SAHARA": {
+      "RU": "ЗАПАДНАЯ САХАРА",
+      "UZ(latin)": "G'ARBIY SAHARA",
+      "UZ(cyrillic)s": "ҒАРБИЙ САҲАРА"
+   },
+   "ZIMBABWE": {
+      "RU": "ЗИМБАБВЕ",
+      "UZ(latin)": "ZIMBABVE",
+      "UZ(cyrillic)s": "ЗИМБАБВЕ"
+   },
+   "ISRAEL": {
+      "RU": "ИЗРАИЛЬ",
+      "UZ(latin)": "ISROIL",
+      "UZ(cyrillic)s": "ИСРОИЛ"
+   },
+   "INDIA": {
+      "RU": "ИНДИЯ",
+      "UZ(latin)": "HINDISTON",
+      "UZ(cyrillic)s": "ҲИНДИСТОН"
+   },
+   "INDONESIA": {
+      "RU": "ИНДОНЕЗИЯ",
+      "UZ(latin)": "INDONEZIYA",
+      "UZ(cyrillic)s": "ИНДОНЕЗИЯ"
+   },
+   "JORDAN": {
+      "RU": "ИОРДАНИЯ",
+      "UZ(latin)": "IORDAN",
+      "UZ(cyrillic)s": "ИОРДАНИЯ"
+   },
+   "IRAQ": {
+      "RU": "ИРАК",
+      "UZ(latin)": "IRAQ",
+      "UZ(cyrillic)s": "ИРОҚ"
+   },
+   "IRAN": {
+      "RU": "ИРАН",
+      "UZ(latin)": "ERON",
+      "UZ(cyrillic)s": "ЭРОН"
+   },
+   "IRELAND": {
+      "RU": "ИРЛАНДИЯ",
+      "UZ(latin)": "IRLANDIYA",
+      "UZ(cyrillic)s": "ИРЛАНДИЯ"
+   },
+   "ICELAND": {
+      "RU": "ИСЛАНДИЯ",
+      "UZ(latin)": "ISLANDIYA",
+      "UZ(cyrillic)s": "ИСЛАНДИЯ"
+   },
+   "SPAIN": {
+      "RU": "ИСПАНИЯ",
+      "UZ(latin)": "ISPANYA",
+      "UZ(cyrillic)s": "ИСПАНИЯ"
+   },
+   "ITALY": {
+      "RU": "ИТАЛИЯ",
+      "UZ(latin)": "ITALIYA",
+      "UZ(cyrillic)s": "ИТАЛИЯ"
+   },
+   "YEMEN": {
+      "RU": "ЙЕМЕН",
+      "UZ(latin)": "YAMAN",
+      "UZ(cyrillic)s": "ЯМАН"
+   },
+   "CAPE VERDE": {
+      "RU": "КАБО-ВЕРДЕ",
+      "UZ(latin)": "KAPA VERDE",
+      "UZ(cyrillic)s": "КАПА ВЕРДЕ"
+   },
+   "KAZAKHSTAN": {
+      "RU": "КАЗАХСТАН",
+      "UZ(latin)": "QOZOQISTON",
+      "UZ(cyrillic)s": "ҚОЗОҒИСТОН"
+   },
+   "CAIMAN": {
+      "RU": "КАЙМАН",
+      "UZ(latin)": "KAYMAN",
+      "UZ(cyrillic)s": "КАЙМАН"
+   },
+   "CAMBODIA": {
+      "RU": "КАМБОДЖА",
+      "UZ(latin)": "KAMBODIYA",
+      "UZ(cyrillic)s": "КАМБОЖА"
+   },
+   "CAMEROON": {
+      "RU": "КАМЕРУН",
+      "UZ(latin)": "KAMERUN",
+      "UZ(cyrillic)s": "КАМЕРУН"
+   },
+   "CANADA": {
+      "RU": "КАНАДА",
+      "UZ(latin)": "KANADA",
+      "UZ(cyrillic)s": "КАНАДА"
+   },
+   "QATAR": {
+      "RU": "КАТАР",
+      "UZ(latin)": "QATAR",
+      "UZ(cyrillic)s": "ҚАТАР"
+   },
+   "KENYA": {
+      "RU": "КЕНИЯ",
+      "UZ(latin)": "KENYA",
+      "UZ(cyrillic)s": "КЕНИЯ"
+   },
+   "CYPRUS": {
+      "RU": "КИПР",
+      "UZ(latin)": "KIPR",
+      "UZ(cyrillic)s": "КИПР"
+   },
+   "KIRIBATI": {
+      "RU": "КИРИБАТИ",
+      "UZ(latin)": "KIRIBATI",
+      "UZ(cyrillic)s": "КИРИБАТИ"
+   },
+   "CHINA": {
+      "RU": "КИТАЙ",
+      "UZ(latin)": "XITOY",
+      "UZ(cyrillic)s": "ХИТОЙ"
+   },
+   "COCONUT ISLANDS": {
+      "RU": "КОКОСОВЫЕ ОСТРОВА",
+      "UZ(latin)": "KOKOS OROLLARI",
+      "UZ(cyrillic)s": "КОКОС ОРОЛЛАРИ"
+   },
+   "COLOMBIA": {
+      "RU": "КОЛУМБИЯ",
+      "UZ(latin)": "KOLUMBIYA",
+      "UZ(cyrillic)s": "КОЛУМБИЯ"
+   },
+   "COMOROS": {
+      "RU": "КОМОРСКИЕ ОСТРОВА",
+      "UZ(latin)": "KOMOR ORTALARI",
+      "UZ(cyrillic)s": "КОМОР ОРОЛЛАРИ"
+   },
+   "CONGO": {
+      "RU": "КОНГО",
+      "UZ(latin)": "KONGO",
+      "UZ(cyrillic)s": "КОНГО"
+   },
+   "CONGO (DRC)": {
+      "RU": "КОНГО (ДРК)",
+      "UZ(latin)": "KONGO (DRK)",
+      "UZ(cyrillic)s": "КОНГО (ДРК)"
+   },
+   "KOREA": {
+      "RU": "КОРЕЯ",
+      "UZ(latin)": "KOREYA",
+      "UZ(cyrillic)s": "КОРЕЯ"
+   },
+   "KOREA (DPRK)": {
+      "RU": "КОРЕЯ (КНДР)",
+      "UZ(latin)": "KOREYA (KXDR)",
+      "UZ(cyrillic)s": "КОРЕЯ (КХДР)"
+   },
+   "COSTA RICA": {
+      "RU": "КОСТА-РИКА",
+      "UZ(latin)": "KOSTA-RIKA",
+      "UZ(cyrillic)s": "КОСТА-РИКА"
+   },
+   "CÔTE D'IVOIRE": {
+      "RU": "КОТ-Д'ИВУАР",
+      "UZ(latin)": "KOT-D'IVUAR",
+      "UZ(cyrillic)s": "КОТ-ДЪИВУАР"
+   },
+   "CUBA": {
+      "RU": "КУБА",
+      "UZ(latin)": "KUBA",
+      "UZ(cyrillic)s": "КУБА"
+   },
+   "KUWAIT": {
+      "RU": "КУВЕЙТ",
+      "UZ(latin)": "KUVAYT",
+      "UZ(cyrillic)s": "ҚУВАЙТ"
+   },
+   "KYRGYZSTAN": {
+      "RU": "КЫРГЫЗСТАН",
+      "UZ(latin)": "QIRGIZISTON",
+      "UZ(cyrillic)s": "ҚИРГИЗИСТОН"
+   },
+   "CURACAO": {
+      "RU": "КЮРАСАО",
+      "UZ(latin)": "KURAKAO",
+      "UZ(cyrillic)s": "КУРАКАО"
+   },
+   "LAOS": {
+      "RU": "ЛАОС",
+      "UZ(latin)": "LAOS",
+      "UZ(cyrillic)s": "ЛАОС"
+   },
+   "LATVIA": {
+      "RU": "ЛАТВИЯ",
+      "UZ(latin)": "LATVIYA",
+      "UZ(cyrillic)s": "ЛАТВИЯ"
+   },
+   "LESOTHO": {
+      "RU": "ЛЕСОТО",
+      "UZ(latin)": "LESOTO",
+      "UZ(cyrillic)s": "ЛЕСОТО"
+   },
+   "LIBERIA": {
+      "RU": "ЛИБЕРИЯ",
+      "UZ(latin)": "LIBERIA",
+      "UZ(cyrillic)s": "ЛИБЕРИЯ"
+   },
+   "LEBANON": {
+      "RU": "ЛИВАН",
+      "UZ(latin)": "LIVAN",
+      "UZ(cyrillic)s": "ЛИВАН"
+   },
+   "LIBYA": {
+      "RU": "ЛИВИЯ",
+      "UZ(latin)": "LIBYA",
+      "UZ(cyrillic)s": "ЛИБЯ"
+   },
+   "LITHUANIA": {
+      "RU": "ЛИТВА",
+      "UZ(latin)": "LITVA",
+      "UZ(cyrillic)s": "ЛИТВА"
+   },
+   "LIECHTENSTEIN": {
+      "RU": "ЛИХТЕНШТЕЙН",
+      "UZ(latin)": "LIXTENSSHTEYN",
+      "UZ(cyrillic)s": "ЛИХТЕНСШТЕЙН"
+   },
+   "LUXEMBOURG": {
+      "RU": "ЛЮКСЕМБУРГ",
+      "UZ(latin)": "LYUKSEMBURG",
+      "UZ(cyrillic)s": "ЛЮКСЕМБУРГ"
+   },
+   "MAURITIUS": {
+      "RU": "МАВРИКИЙ",
+      "UZ(latin)": "MAURITIUS",
+      "UZ(cyrillic)s": "МАУРИТИУС"
+   },
+   "MAURITANIA": {
+      "RU": "МАВРИТАНИЯ",
+      "UZ(latin)": "MAVRITANIYA",
+      "UZ(cyrillic)s": "МАВРИТАНИЯ"
+   },
+   "MADAGASCAR": {
+      "RU": "МАДАГАСКАР",
+      "UZ(latin)": "MADAGASKAR",
+      "UZ(cyrillic)s": "МАДАГАСКАР"
+   },
+   "MAYOTTE": {
+      "RU": "МАЙОТТА",
+      "UZ(latin)": "MAYOTTE",
+      "UZ(cyrillic)s": "МАЁТТА"
+   },
+   "MACAO": {
+      "RU": "МАКАО",
+      "UZ(latin)": "MAKAO",
+      "UZ(cyrillic)s": "МАКАО"
+   },
+   "MACEDONIA": {
+      "RU": "МАКЕДОНИЯ",
+      "UZ(latin)": "MAKEDONIYA",
+      "UZ(cyrillic)s": "МАКЕДОНИЯ"
+   },
+   "MALAWI": {
+      "RU": "МАЛАВИ",
+      "UZ(latin)": "MALAVI",
+      "UZ(cyrillic)s": "МАЛАВИ"
+   },
+   "MALAYSIA": {
+      "RU": "МАЛАЙЗИЯ",
+      "UZ(latin)": "MALAYSIYA",
+      "UZ(cyrillic)s": "МАЛАЙЗИЯ"
+   },
+   "MALI": {
+      "RU": "МАЛИ",
+      "UZ(latin)": "MALI",
+      "UZ(cyrillic)s": "МАЛИ"
+   },
+   "MINOR PACIFIC ISLANDS (USA)": {
+      "RU": "МАЛЫЕ ТИХООКЕАНСКИЕ ОСТРОВА (США)",
+      "UZ(latin)": "KICHIK TINCH OKEAN OROLLARI (AQSH)",
+      "UZ(cyrillic)s": "КИЧИК ТИНЧ ОКЕАН ОРОЛЛАРИ (АҚШ)"
+   },
+   "MALDIVES": {
+      "RU": "МАЛЬДИВЫ",
+      "UZ(latin)": "MALDIV OROLLARI",
+      "UZ(cyrillic)s": "МАЛДИВ ОРОЛЛАРИ"
+   },
+   "MALTA": {
+      "RU": "МАЛЬТА",
+      "UZ(latin)": "MALTA",
+      "UZ(cyrillic)s": "МАЛТА"
+   },
+   "MARIANA ISLANDS": {
+      "RU": "МАРИАНСКИЕ ОСТРОВА",
+      "UZ(latin)": "MARIANA OROLLARI",
+      "UZ(cyrillic)s": "МАРИАН ОРОЛЛАРИ"
+   },
+   "MOROCCO": {
+      "RU": "МАРОККО",
+      "UZ(latin)": "MAROKKO",
+      "UZ(cyrillic)s": "МАРОККО"
+   },
+   "MARTINIQUE": {
+      "RU": "МАРТИНИКА",
+      "UZ(latin)": "MARTINIK",
+      "UZ(cyrillic)s": "МАРТИНИК"
+   },
+   "MARSHALL ISLANDS": {
+      "RU": "МАРШАЛЛОВЫ ОСТРОВА",
+      "UZ(latin)": "MARSHALL OROLLARI",
+      "UZ(cyrillic)s": "МАРШАЛЛ ОРОЛЛАРИ"
+   },
+   "MEXICO": {
+      "RU": "МЕКСИКА",
+      "UZ(latin)": "MEKSIKA",
+      "UZ(cyrillic)s": "МЕКСИКА"
+   },
+   "MICRONESIA": {
+      "RU": "МИКРОНЕЗИЯ",
+      "UZ(latin)": "MIKRONEZIYA",
+      "UZ(cyrillic)s": "МИКРОНЕЗИЯ"
+   },
+   "MOZAMBIQUE": {
+      "RU": "МОЗАМБИК",
+      "UZ(latin)": "MOZAMBIK",
+      "UZ(cyrillic)s": "МОЗАМБИК"
+   },
+   "MOLDOVA": {
+      "RU": "МОЛДОВА",
+      "UZ(latin)": "MOLDOVA",
+      "UZ(cyrillic)s": "МОЛДОВА"
+   },
+   "MONACO": {
+      "RU": "МОНАКО",
+      "UZ(latin)": "MONAKO",
+      "UZ(cyrillic)s": "МОНАКО"
+   },
+   "MONGOLIA": {
+      "RU": "МОНГОЛИЯ",
+      "UZ(latin)": "MO‘G‘OLISTON",
+      "UZ(cyrillic)s": "МЎҒОЛИСТОН"
+   },
+   "MONTSERRAT": {
+      "RU": "МОНТСЕРРАТ",
+      "UZ(latin)": "MONTSERRAT",
+      "UZ(cyrillic)s": "МОНТСЕРРАТ"
+   },
+   "MYANMAR": {
+      "RU": "МЬЯНМА",
+      "UZ(latin)": "MYANMAR",
+      "UZ(cyrillic)s": "МЯНМАР"
+   },
+   "NAMIBIA": {
+      "RU": "НАМИБИЯ",
+      "UZ(latin)": "NAMIBIYA",
+      "UZ(cyrillic)s": "НАМИБИЯ"
+   },
+   "NAURU": {
+      "RU": "НАУРУ",
+      "UZ(latin)": "NAURU",
+      "UZ(cyrillic)s": "НАУРУ"
+   },
+   "NEPAL": {
+      "RU": "НЕПАЛ",
+      "UZ(latin)": "NEPAL",
+      "UZ(cyrillic)s": "НЕПАЛ"
+   },
+   "NIGER": {
+      "RU": "НИГЕР",
+      "UZ(latin)": "NIGER",
+      "UZ(cyrillic)s": "НИГЕР"
+   },
+   "NIGERIA": {
+      "RU": "НИГЕРИЯ",
+      "UZ(latin)": "NIGERIA",
+      "UZ(cyrillic)s": "НИГЕРИЯ"
+   },
+   "NETHERLANDS ANTILES": {
+      "RU": "НИДЕРЛАНДСКИЕ АНТИЛЫ",
+      "UZ(latin)": "GOLLANDIYA ANTILYALARI",
+      "UZ(cyrillic)s": "ГОЛЛАНДИЯ АНТИЛЯЛАРИ"
+   },
+   "NETHERLANDS": {
+      "RU": "НИДЕРЛАНДЫ",
+      "UZ(latin)": "GOLLANDIYA",
+      "UZ(cyrillic)s": "ГОЛЛАНДИЯ"
+   },
+   "NICARAGUA": {
+      "RU": "НИКАРАГУА",
+      "UZ(latin)": "NIKARAGUA",
+      "UZ(cyrillic)s": "НИКАРАГУА"
+   },
+   "NIUE (N.G.)": {
+      "RU": "НИУЭ (Н.ЗЕЛ.)",
+      "UZ(latin)": "NIUE (N.G.)",
+      "UZ(cyrillic)s": "НИУЕ (Н.Г.)"
+   },
+   "NEW ZEALAND": {
+      "RU": "НОВАЯ ЗЕЛАНДИЯ",
+      "UZ(latin)": "YANGI ZELANDIYA",
+      "UZ(cyrillic)s": "ЯНГИ ЗЕЛАНДИЯ"
+   },
+   "NEW CALEDONIA (FR.)": {
+      "RU": "НОВАЯ КАЛЕДОНИЯ (ФР.)",
+      "UZ(latin)": "YANGI KALEDONIYA (FR.)",
+      "UZ(cyrillic)s": "ЯНГИ КАЛЕДОНИЯ (ФР.)"
+   },
+   "NORWAY": {
+      "RU": "НОРВЕГИЯ",
+      "UZ(latin)": "NORVEYA",
+      "UZ(cyrillic)s": "НОРВЕГИЯ"
+   },
+   "CHANNEL ISLANDS": {
+      "RU": "НОРМАНДСКИЕ ОСТРОВА",
+      "UZ(latin)": "NORMAND OROLLARI",
+      "UZ(cyrillic)s": "НОРМАНД ОРОЛЛАРИ"
+   },
+   "NORFOLK": {
+      "RU": "НОРФОЛК",
+      "UZ(latin)": "NORFOLK",
+      "UZ(cyrillic)s": "НОРФОЛК"
+   },
+   "UNITED ARAB EMIRATES": {
+      "RU": "ОБЪЕД. АРАБСКИЕ ЭМИРАТЫ",
+      "UZ(latin)": "BIRLASHGAN ARAB AMIRLIKLARI",
+      "UZ(cyrillic)s": "БИРЛАШГАН АРАБ АМИРЛИКЛАРИ"
+   },
+   "ISLE OF MAN": {
+      "RU": "ОСТРОВ МЭН",
+      "UZ(latin)": "INSON OROLI",
+      "UZ(cyrillic)s": "МЭН ОРОЛИ"
+   },
+   "CHRISTMAS ISLAND": {
+      "RU": "ОСТРОВ РОЖДЕСТВА",
+      "UZ(latin)": "ROJDESTVO OROLI",
+      "UZ(cyrillic)s": "РОЖДЕСТВО ОРОЛИ"
+   },
+   "COOK ISLANDS": {
+      "RU": "ОСТРОВА КУКА",
+      "UZ(latin)": "KUK OROLLARI",
+      "UZ(cyrillic)s": "КУК ОРОЛЛАРИ"
+   },
+   "OMAN": {
+      "RU": "ОМАН",
+      "UZ(latin)": "UMMAN",
+      "UZ(cyrillic)s": "УММОН"
+   },
+   "PAKISTAN": {
+      "RU": "ПАКИСТАН",
+      "UZ(latin)": "POKISTAN",
+      "UZ(cyrillic)s": "ПОКИСТОН"
+   },
+   "PALAU": {
+      "RU": "ПАЛАУ",
+      "UZ(latin)": "PALAU",
+      "UZ(cyrillic)s": "ПАЛАУ"
+   },
+   "PALESTINE": {
+      "RU": "ПАЛЕСТИНА",
+      "UZ(latin)": "FALESTIN",
+      "UZ(cyrillic)s": "ФАЛЕСТИН"
+   },
+   "PANAMA": {
+      "RU": "ПАНАМА",
+      "UZ(latin)": "PANAMA",
+      "UZ(cyrillic)s": "ПАНАМА"
+   },
+   "PAPUA NEW GUINEA": {
+      "RU": "ПАПУА — НОВАЯ ГВИНЕЯ",
+      "UZ(latin)": "PAPUA YANGI GVINEYA",
+      "UZ(cyrillic)s": "ПАПУА ЯНГИ ГВИНЕЯ"
+   },
+   "PARAGUAY": {
+      "RU": "ПАРАГВАЙ",
+      "UZ(latin)": "PARAGVAY",
+      "UZ(cyrillic)s": "ПАРАГВАЙ"
+   },
+   "PERU": {
+      "RU": "ПЕРУ",
+      "UZ(latin)": "PERU",
+      "UZ(cyrillic)s": "ПЕРУ"
+   },
+   "PITCAIRN": {
+      "RU": "ПИТКЭРН",
+      "UZ(latin)": "PITCAIRN",
+      "UZ(cyrillic)s": "ПИТКЕРН "
+   },
+   "POLAND": {
+      "RU": "ПОЛЬША",
+      "UZ(latin)": "POLSHA",
+      "UZ(cyrillic)s": "ПОЛША"
+   },
+   "PORTUGAL": {
+      "RU": "ПОРТУГАЛИЯ",
+      "UZ(latin)": "PORTUGALYA",
+      "UZ(cyrillic)s": "ПОРТУГАЛИЯ"
+   },
+   "PUERTO RICO (USA)": {
+      "RU": "ПУЭРТО-РИКО (США)",
+      "UZ(latin)": "PUERTO-RIKO (AQSH)",
+      "UZ(cyrillic)s": "ПУЕРТО-РИКО (АҚШ)"
+   },
+   "REUNION": {
+      "RU": "РЕЮНЬОН",
+      "UZ(latin)": "REYUNYON",
+      "UZ(cyrillic)s": "РЕЮНЬОН"
+   },
+   "RUSSIA": {
+      "RU": "РОССИЯ",
+      "UZ(latin)": "ROSSIYA",
+      "UZ(cyrillic)s": "РОССИЯ"
+   },
+   "RWANDA": {
+      "RU": "РУАНДА",
+      "UZ(latin)": "RUANDA",
+      "UZ(cyrillic)s": "РУАНДА"
+   },
+   "ROMANIA": {
+      "RU": "РУМЫНИЯ",
+      "UZ(latin)": "RUMINIYA",
+      "UZ(cyrillic)s": "РУМУНИЯ"
+   },
+   "SALVADOR": {
+      "RU": "САЛЬВАДОР",
+      "UZ(latin)": "SALVADOR",
+      "UZ(cyrillic)s": "САЛВАДОР"
+   },
+   "SAMOA": {
+      "RU": "САМОА",
+      "UZ(latin)": "SAMOA",
+      "UZ(cyrillic)s": "САМОА"
+   },
+   "SAO TOME AND PRINCIPE": {
+      "RU": "САН-ТОМЕ И ПРИНСИПИ",
+      "UZ(latin)": "SAO TOME VA PRINSIPI",
+      "UZ(cyrillic)s": "САО ТОМЕ ВА ПРИНСИПИ"
+   },
+   "SAN MARINO": {
+      "RU": "САН-МАРИНО",
+      "UZ(latin)": "SAN MARINO",
+      "UZ(cyrillic)s": "САН МАРИНО"
+   },
+   "SAUDI ARABIA": {
+      "RU": "САУДОВСКАЯ АРАВИЯ",
+      "UZ(latin)": "SAUDIYA ARABISTONI",
+      "UZ(cyrillic)s": "САУДИЯ АРАБИСТОНИ"
+   },
+   "SWAZILAND": {
+      "RU": "СВАЗИЛЕНД",
+      "UZ(latin)": "SVAZILAND",
+      "UZ(cyrillic)s": "СВАЗИЛАНД"
+   },
+   "SAINT HELENA": {
+      "RU": "СВЯТАЯ ЕЛЕНА",
+      "UZ(latin)": "AVLIYO ELENA",
+      "UZ(cyrillic)s": "АВЛИЁ ЕЛЕНА "
+   },
+   "SEYCHELLES": {
+      "RU": "СЕЙШЕЛЫ",
+      "UZ(latin)": "SEYSHEL OROLLARI",
+      "UZ(cyrillic)s": "СЕЙШЕЛ ОРОЛЛАРИ"
+   },
+   "SAINT BARTHELEMY": {
+      "RU": "СЕН-БАРТЕЛЕМИ",
+      "UZ(latin)": "SENT BARTELEMİ",
+      "UZ(cyrillic)s": "СЕНТ БАРТЕЛЕМИ"
+   },
+   "SAINT MARTIN (NID.)": {
+      "RU": "СЕН-МАРТЕН (НИД.)",
+      "UZ(latin)": "SENT MARTIN (NID.)",
+      "UZ(cyrillic)s": "СЕНТ МАРТИН (НИД.)"
+   },
+   "SAINT MARTIN (FR.)": {
+      "RU": "СЕН-МАРТЕН (ФР.)",
+      "UZ(latin)": "SENT MARTIN (FR.)",
+      "UZ(cyrillic)s": "СЕНТ МАРТИН (ФР.)"
+   },
+   "SAINT PIERRE AND MIKELON": {
+      "RU": "СЕН-ПЬЕР И МИКЕЛОН",
+      "UZ(latin)": "SENT PIER VA MIKELON",
+      "UZ(cyrillic)s": "СЕНТ ПИЕР ВА МИКЕЛОН"
+   },
+   "SENEGAL": {
+      "RU": "СЕНЕГАЛ",
+      "UZ(latin)": "SENEGAL",
+      "UZ(cyrillic)s": "СЕНЕГАЛ"
+   },
+   "SAINT VINCENT AND THE GRENADINES": {
+      "RU": "СЕНТ-ВИНСЕНТ И ГРЕНАДИНЫ",
+      "UZ(latin)": "SENT VINSENT VA GRENADINALAR",
+      "UZ(cyrillic)s": "СЕНТ ВИНСЕНТ ВА ГРЕНАДИНАЛАР"
+   },
+   "SAINT KITTS AND NEVIS": {
+      "RU": "СЕНТ-КИТС И НЕВИС",
+      "UZ(latin)": "SAINT KITTS VA NEVIS",
+      "UZ(cyrillic)s": "САИНТ КИТТС ВА НЕВИС"
+   },
+   "SAINT LUCIA": {
+      "RU": "СЕНТ-ЛЮСИЯ",
+      "UZ(latin)": "AVLIY LUCIA",
+      "UZ(cyrillic)s": "АВЛИЙО ЛУCИА"
+   },
+   "SERBIA": {
+      "RU": "СЕРБИЯ",
+      "UZ(latin)": "SERBIYA",
+      "UZ(cyrillic)s": "СЕРБИЯ"
+   },
+   "SINGAPORE": {
+      "RU": "СИНГАПУР",
+      "UZ(latin)": "SINGAPUR",
+      "UZ(cyrillic)s": "СИНГАПУР"
+   },
+   "SYRIA": {
+      "RU": "СИРИЯ",
+      "UZ(latin)": "SURİYA",
+      "UZ(cyrillic)s": "СУРИЯ"
+   },
+   "SLOVAKIA": {
+      "RU": "СЛОВАКИЯ",
+      "UZ(latin)": "SLOVAKIYA",
+      "UZ(cyrillic)s": "СЛОВАКИЯ"
+   },
+   "SLOVENIA": {
+      "RU": "СЛОВЕНИЯ",
+      "UZ(latin)": "SLOVENIYA",
+      "UZ(cyrillic)s": "СЛОВЕНИЯ"
+   },
+   "UNITED KINGDOM": {
+      "RU": "СОЕДИНЕННОЕ КОРОЛЕВСТВО",
+      "UZ(latin)": "BIRLASHGAN QIROLLIK",
+      "UZ(cyrillic)s": "БИРЛАШГАН ҚИРОЛЛИК"
+   },
+   "SOLOMON ISLANDS": {
+      "RU": "СОЛОМОНОВЫ ОСТРОВА",
+      "UZ(latin)": "SOLОМОN OROLLARI",
+      "UZ(cyrillic)s": "СОЛОМОН ОРОЛЛАРИ"
+   },
+   "SOMALIA": {
+      "RU": "СОМАЛИ",
+      "UZ(latin)": "SOMALIYA",
+      "UZ(cyrillic)s": "СОМАЛИЯ"
+   },
+   "SUDAN": {
+      "RU": "СУДАН",
+      "UZ(latin)": "SUDAN",
+      "UZ(cyrillic)s": "СУДАН"
+   },
+   "SURINAM": {
+      "RU": "СУРИНАМ",
+      "UZ(latin)": "SURINAM",
+      "UZ(cyrillic)s": "СУРИНАМ"
+   },
+   "USA": {
+      "RU": "США",
+      "UZ(latin)": "AQSH",
+      "UZ(cyrillic)s": "АҚШ"
+   },
+   "SIERRA LEONE": {
+      "RU": "СЬЕРРА-ЛЕОНЕ",
+      "UZ(latin)": "SIERRA LEONE",
+      "UZ(cyrillic)s": "СИЕРРА ЛЕОНЕ"
+   },
+   "TAJIKISTAN": {
+      "RU": "ТАДЖИКИСТАН",
+      "UZ(latin)": "TOJIKISTON",
+      "UZ(cyrillic)s": "ТОЖИКИСТОН"
+   },
+   "THAILAND": {
+      "RU": "ТАИЛАНД",
+      "UZ(latin)": "TAILAND",
+      "UZ(cyrillic)s": "ТАИЛАНД"
+   },
+   "TAIWAN": {
+      "RU": "ТАЙВАНЬ",
+      "UZ(latin)": "TAYVAN",
+      "UZ(cyrillic)s": "ТАЙВАН"
+   },
+   "TANZANIA": {
+      "RU": "ТАНЗАНИЯ",
+      "UZ(latin)": "TANZANİYA",
+      "UZ(cyrillic)s": "ТАНЗАНИЯ"
+   },
+   "TURKS AND CAICOS": {
+      "RU": "ТЕРКС И КАЙКОС",
+      "UZ(latin)": "TURKS VA CAICOS",
+      "UZ(cyrillic)s": "ТУРКС ВА КАИCОС"
+   },
+   "TIMOR-LESTE": {
+      "RU": "ТИМОР-ЛЕСТЕ",
+      "UZ(latin)": "TIMOR-SHARQI",
+      "UZ(cyrillic)s": "ТИМОР-ЛЕСТЕ"
+   },
+   "TOGO": {
+      "RU": "ТОГО",
+      "UZ(latin)": "TOGO",
+      "UZ(cyrillic)s": "ТОГО"
+   },
+   "TOKELAU": {
+      "RU": "ТОКЕЛАУ",
+      "UZ(latin)": "TOKELAU",
+      "UZ(cyrillic)s": "ТОКЕЛАУ"
+   },
+   "TONGA": {
+      "RU": "ТОНГА",
+      "UZ(latin)": "TONGA",
+      "UZ(cyrillic)s": "ТОНГА"
+   },
+   "TRINIDAD AND TOBAGO": {
+      "RU": "ТРИНИДАД И ТОБАГО",
+      "UZ(latin)": "TRINIDAD VA TOBAGO",
+      "UZ(cyrillic)s": "ТРИНИДАД ВА ТОБАГО"
+   },
+   "TUVALU": {
+      "RU": "ТУВАЛУ",
+      "UZ(latin)": "TUVALU",
+      "UZ(cyrillic)s": "ТУВАЛУ"
+   },
+   "TUNISIA": {
+      "RU": "ТУНИС",
+      "UZ(latin)": "TUNIS",
+      "UZ(cyrillic)s": "ТУНИС"
+   },
+   "TURKMENIA": {
+      "RU": "ТУРКМЕНИЯ",
+      "UZ(latin)": "TURKMANIYA",
+      "UZ(cyrillic)s": "ТУРКМАНИЯ"
+   },
+   "TURKEY": {
+      "RU": "ТУРЦИЯ",
+      "UZ(latin)": "TURKIYA",
+      "UZ(cyrillic)s": "ТУРКИЯ"
+   },
+   "UGANDA": {
+      "RU": "УГАНДА",
+      "UZ(latin)": "UGANDA",
+      "UZ(cyrillic)s": "УГАНДА"
+   },
+   "UZBEKISTAN": {
+      "RU": "УЗБЕКИСТАН",
+      "UZ(latin)": "O'ZBEKISTON",
+      "UZ(cyrillic)s": "ЎЗБЕКИСТОН"
+   },
+   "UKRAINE": {
+      "RU": "УКРАИНА",
+      "UZ(latin)": "UKRAINA",
+      "UZ(cyrillic)s": "УКРАИНА"
+   },
+   "WALLIS AND FUTUNA": {
+      "RU": "УОЛЛИС И ФУТУНА",
+      "UZ(latin)": "UOLLIS VA FUTUNA",
+      "UZ(cyrillic)s": "УОЛЛИС ВА ФУТУНА"
+   },
+   "URUGUAY": {
+      "RU": "УРУГВАЙ",
+      "UZ(latin)": "URUGUAY",
+      "UZ(cyrillic)s": "УРУГУАЙ"
+   },
+   "FAROE ISLANDS": {
+      "RU": "ФАРЕРСКИЕ ОСТРОВА",
+      "UZ(latin)": "FARER OROLLARI",
+      "UZ(cyrillic)s": "ФАРЕР ОРОЛЛАРИ"
+   },
+   "FIJI": {
+      "RU": "ФИДЖИ",
+      "UZ(latin)": "FIJI",
+      "UZ(cyrillic)s": "ФИЖИ"
+   },
+   "PHILIPPINES": {
+      "RU": "ФИЛИППИНЫ",
+      "UZ(latin)": "FILIPPIN",
+      "UZ(cyrillic)s": "ФИЛИППИН"
+   },
+   "FINLAND": {
+      "RU": "ФИНЛЯНДИЯ",
+      "UZ(latin)": "FINLANDIYA",
+      "UZ(cyrillic)s": "ФИНЛАНДИЯ"
+   },
+   "FALKLAND ISLANDS": {
+      "RU": "ФОЛКЛЕНДСКИЕ ОСТРОВА",
+      "UZ(latin)": "FOLKLAND OROLLARI",
+      "UZ(cyrillic)s": "ФОЛКЛАНД ОРОЛЛАРИ"
+   },
+   "FR. SOUTH TERRITORIES": {
+      "RU": "ФР. ЮЖНЫЕ ТЕРРИТОРИИ",
+      "UZ(latin)": "FR. JANUBIY HUDUDLAR",
+      "UZ(cyrillic)s": "ФР. ЖАНУБИЙ ҲУДУДЛАР"
+   },
+   "FRANCE": {
+      "RU": "ФРАНЦИЯ",
+      "UZ(latin)": "FRANSIYA",
+      "UZ(cyrillic)s": "ФРАНСИЯ"
+   },
+   "FRENCH GUIANA (FR.)": {
+      "RU": "ФРАНЦУЗСКАЯ ГВИАНА (ФР.)",
+      "UZ(latin)": "FRANSIZ GVIANA (FR.)",
+      "UZ(cyrillic)s": "ФРАНСИЗ ГВИАНА (ФР.)"
+   },
+   "FRENCH POLYNESIA": {
+      "RU": "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ",
+      "UZ(latin)": "FRANSIZ POLINEZIYA",
+      "UZ(cyrillic)s": "ФРАНСИЗ ПОЛИНЕЗИЯ"
+   },
+   "HERD AND MACDONALD": {
+      "RU": "ХЕРД И МАКДОНАЛЬД",
+      "UZ(latin)": "HERD VA MAKDONALD",
+      "UZ(cyrillic)s": "ХЕРД ВА МАКДОНАЛД"
+   },
+   "CROATIA": {
+      "RU": "ХОРВАТИЯ",
+      "UZ(latin)": "XORVATIYA",
+      "UZ(cyrillic)s": "ХОРВАТИЯ"
+   },
+   "CENTER. — AFR. REPUBLIC": {
+      "RU": "ЦЕНТР. — АФР. РЕСПУБЛИКА",
+      "UZ(latin)": "MARKAZ. - AFR. RESPUBLIKASI",
+      "UZ(cyrillic)s": "МАРКАЗ. - АФР. РЕСПУБЛИКАСИ"
+   },
+   "CHAD": {
+      "RU": "ЧАД",
+      "UZ(latin)": "CHAD",
+      "UZ(cyrillic)s": "ЧАД"
+   },
+   "MONTENEGRO": {
+      "RU": "ЧЕРНОГОРИЯ",
+      "UZ(latin)": "CHERNOGORIYA",
+      "UZ(cyrillic)s": "ЧЕРНОГОРИЯ"
+   },
+   "CZECH": {
+      "RU": "ЧЕХИЯ",
+      "UZ(latin)": "CHEXIYA",
+      "UZ(cyrillic)s": "ЧЕХИЯ"
+   },
+   "CHILE": {
+      "RU": "ЧИЛИ",
+      "UZ(latin)": "CHILI",
+      "UZ(cyrillic)s": "ЧИЛИ"
+   },
+   "SWITZERLAND": {
+      "RU": "ШВЕЙЦАРИЯ",
+      "UZ(latin)": "SHVEYTSARIYA",
+      "UZ(cyrillic)s": "ШВЕЙТСАРИЯ"
+   },
+   "SWEDEN": {
+      "RU": "ШВЕЦИЯ",
+      "UZ(latin)": "SHVETSIYA",
+      "UZ(cyrillic)s": "ШВЕЦИЯ"
+   },
+   "SPITSBERGEN AND JAN MAYEN": {
+      "RU": "ШПИЦБЕРГЕН И ЯН-МАЙЕН",
+      "UZ(latin)": "SPITSBERGEN VA YAN MAYEN",
+      "UZ(cyrillic)s": "СПИТСБЕРГЕН ВА ЯН МАЕН"
+   },
+   "SRI LANKA": {
+      "RU": "ШРИ-ЛАНКА",
+      "UZ(latin)": "SHRI LANKA",
+      "UZ(cyrillic)s": "ШРИ ЛАНКА"
+   },
+   "ECUADOR": {
+      "RU": "ЭКВАДОР",
+      "UZ(latin)": "EKVADOR",
+      "UZ(cyrillic)s": "ЭКВАДОР"
+   },
+   "EQUATORIAL GUINEA": {
+      "RU": "ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ",
+      "UZ(latin)": "EKVATORIAL GVINEYASI",
+      "UZ(cyrillic)s": "ЭКВАТОРИАЛ ГВИНЕЯСИ"
+   },
+   "ERITREA": {
+      "RU": "ЭРИТРЕЯ",
+      "UZ(latin)": "ERITREYA",
+      "UZ(cyrillic)s": "ЭРИТРЕЯ"
+   },
+   "ESTONIA": {
+      "RU": "ЭСТОНИЯ",
+      "UZ(latin)": "ESTONIYA",
+      "UZ(cyrillic)s": "ЭСТОНИЯ"
+   },
+   "ETHIOPIA": {
+      "RU": "ЭФИОПИЯ",
+      "UZ(latin)": "EFIOPIYA",
+      "UZ(cyrillic)s": "ЭФИОПИЯ"
+   },
+   "SOUTH AFRICA": {
+      "RU": "ЮЖНАЯ АФРИКА",
+      "UZ(latin)": "JANUBIY AFRIKA",
+      "UZ(cyrillic)s": "ЖАНУБИЙ АФРИКА"
+   },
+   "SOUTH SUDAN": {
+      "RU": "ЮЖНЫЙ СУДАН",
+      "UZ(latin)": "JANUBIY SUDAN",
+      "UZ(cyrillic)s": "ЖАНУБИЙ СУДАН"
+   },
+   "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS": {
+      "RU": "ЮЖНАЯ ДЖОРДЖИЯ И ЮЖНЫЕ САНДВИЧЕВЫ ОСТРОВА",
+      "UZ(latin)": "JANUBIY GORJIYA VA JANUBIY SENDVICH OROLLARI",
+      "UZ(cyrillic)s": "ЖАНУБИЙ ДЖОРЖИЯ ВА ЖАНУБИЙ СЕНДВИЧ ОРОЛЛАРИ"
+   },
+   "JAMAICA": {
+      "RU": "ЯМАЙКА",
+      "UZ(latin)": "YAMAYKA",
+      "UZ(cyrillic)s": "ЯМАЙКА"
+   },
+   "JAPAN": {
+      "RU": "ЯПОНИЯ",
+      "UZ(latin)": "YAPONIYA",
+      "UZ(cyrillic)s": "ЯПОНИЯ"
+   }
+}
+}
